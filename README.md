@@ -1,2 +1,2 @@
 # TestRepository
-Resolving merge conflicts.
+Resolving merge conflicts in Git.
