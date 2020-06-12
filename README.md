@@ -1,3 +1,3 @@
 # TestRepository
-Resolving merge conflicts in Git V2.
+Resolving merge conflicts in Git V3.
 
